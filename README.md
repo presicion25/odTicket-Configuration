@@ -1,1 +1,1 @@
-# odTicket-Configuration
+# osTicket-Configuration
