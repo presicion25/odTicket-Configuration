@@ -2,7 +2,7 @@
 <img src="https://imgur.com/GtGHaCx.png alt="Traffic Examination"/>
 </p>
 
-<h1>osTicket Main Configuration Configuration<h1/>
+<h1>osTicket Main Configuration<h1/>
 
 Step 1. Configure roles in the admin panel.
 Go to:
