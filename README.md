@@ -3,6 +3,16 @@
 </p>
 
 <h1>osTicket Main Configuration<h1/>
+In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
+
+<b>Technologies and Environments Used</b>
+ - PHP 
+ - osTicket (Help Desk Ticketing System
+<br />
+<br />
+
+
+<hs>Main Steps<h2/>
 
 Step 1. Configure roles in the admin panel.
 Go to:
