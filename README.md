@@ -110,8 +110,16 @@ Step 4. Allow anyone to create tickets. Go to:
 - Admin Panel -> Settings -> User Settings
 - Registration Required: Require registration and login to create tickets
 
+<p align="center">
+<img src="https://imgur.com/bNo1uVb.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
+Step 5. Configure Agents (Workers who will work the tickets). Go to:
+- Admin Panel -> Agents -> Add New
+- (Whatever names you choose)          
 
 
 
