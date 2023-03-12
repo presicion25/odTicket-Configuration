@@ -218,6 +218,39 @@ Step 7. Configure SLA (Service Level Agreements)
 <br />
 <br />
 
+7b. Give the plan a name and set the schedule
+
+<p align="center">
+<img src="https://imgur.com/ecSFUfw.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+7c. SLA Plans Created 
+
+<p align="center">
+<img src="https://imgur.com/zOlS1Ei.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+Step 8. Configure Help Topics
+- Admin Panel -> Manage -> Help Topics
+ - Business Critical Outage
+ - Personal Computer Issues
+ - Equipment Request
+ - Password Reset
+
+<p align="center">
+<img src="https://imgur.com/GNiIDIo.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+8b. Set the help topic details (Name, Status, Parent Topic)
+
+
 
 
 
