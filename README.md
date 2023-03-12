@@ -43,9 +43,22 @@ Go to:
 <br />
 <br />
 
+Step 2. Configure the Departments
+- Admin Panel -> Agents -> Departments
+- For testing purposes create the department: System Administrators and 
 
+<p align="center">
+<img src="https://imgur.com/e00qPRv.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
-
+2b. 
+<p align="center">
+<img src="https://imgur.com/fYAKYR6.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
 
