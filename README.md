@@ -237,10 +237,11 @@ Step 7. Configure SLA (Service Level Agreements)
 
 Step 8. Configure Help Topics
 - Admin Panel -> Manage -> Help Topics
- - Business Critical Outage
- - Personal Computer Issues
- - Equipment Request
- - Password Reset
+- For the purposes of testing create four topics
+  - Business Critical Outage
+  - Personal Computer Issues
+  - Equipment Request
+  - Password Reset
 
 <p align="center">
 <img src="https://imgur.com/GNiIDIo.png alt="Traffic Examination"/>
@@ -249,6 +250,44 @@ Step 8. Configure Help Topics
 <br />
 
 8b. Set the help topic details (Name, Status, Parent Topic)
+
+<p align="center">
+<img src="https://imgur.com/28lVqxI.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+8c. Next, set the ticket options for the created help topic (department, status, priority, SLA plan, team assignment)
+
+<p align="center">
+<img src="https://imgur.com/BqHduZy.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+8d. Help Topics Have Been Created
+
+<p align="center">
+<img src="https://imgur.com/g6PS3Tz.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
