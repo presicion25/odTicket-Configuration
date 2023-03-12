@@ -168,7 +168,7 @@ Step 5. Configure Agents (Workers who will work the tickets). Go to:
 <br />
 <br />
 
-Step 6. Go the the agent panel and create new user (Person who can create a service ticket request). Go to:
+Step 6. Go the the agent panel and create new user (Customers who can create a service ticket request). Go to:
 - Agent Panel -> Users -> Add New
 - For the purposes of testing create two users (whatever names you choose)
 
@@ -185,6 +185,43 @@ Step 6. Go the the agent panel and create new user (Person who can create a serv
 </p>
 <br />
 <br />
+
+
+6c. New user has been created
+
+<p align="center">
+<img src="https://imgur.com/QKrY0CC.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+6d. Register the new user
+
+<p align="center">
+<img src="https://imgur.com/Vdb3Xfy.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+Step 7. Configure SLA (Service Level Agreements)
+- Admin Panel -> Manage -> SLA
+- For the purposes of testing configure three
+ - Sev-A (1 hour, 24/7)
+ - Sev-B (4 hours, 24/7)
+ - Sev-C (8 hours, business hours)
+
+<p align="center">
+<img src="https://imgur.com/a43lnfj.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+
+
+
 
 
 
