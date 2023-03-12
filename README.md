@@ -85,7 +85,15 @@ Step 3. Configure Teams
 <br />
 <br />
 
+3d. Teams Created
+<p align="center">
+<img src="https://imgur.com/TYkpbfd.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+
+Step 4. 
 
 
 
