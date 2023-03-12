@@ -106,7 +106,9 @@ Step 3. Configure Teams
 <br />
 
 
-Step 4. 
+Step 4. Allow anyone to create tickets. Go to:
+- Admin Panel -> Settings -> User Settings
+- Registration Required: Require registration and login to create tickets
 
 
 
