@@ -2,12 +2,15 @@
 <img src="https://imgur.com/GtGHaCx.png alt="Traffic Examination"/>
 </p>
 
-<h1>osTicket Main Configuration<h1/>
+<h2>osTicket Main Configuration<h2/>
 In this tutorial I go through the steps to configure and setup osTicket after installation in the previous tutorial
+<br />
+<br />
 
-<b>Technologies and Environments Used<b/>
- - PHP 
- - osTicket (Help Desk Ticketing System
+<h2>Technologies and Environments Used<h2/>
+
+- PHP 
+- osTicket (Help Desk Ticketing System)
 <br />
 <br />
 
