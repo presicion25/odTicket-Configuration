@@ -121,26 +121,70 @@ Step 5. Configure Agents (Workers who will work the tickets). Go to:
 - Admin Panel -> Agents -> Add New
 - (Whatever names you choose)          
 
+<p align="center">
+<img src="https://imgur.com/AaGOZ0Z.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
+5b. Set the agent password
 
+<p align="center">
+<img src="https://imgur.com/7150koE.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+5c. Set the department for the agent
 
+<p align="center">
+<img src="https://imgur.com/sgkD1Zk.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+5d. Sert the permissions for the new agent 
 
+<p align="center">
+<img src="https://imgur.com/3TnpvPY.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+5e. Set the team for the new agent 
 
+<p align="center">
+<img src="https://imgur.com/3TdA9R5.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+5f. New agent has been created
 
+<p align="center">
+<img src="https://imgur.com/bo7hKZh.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+Step 6. Go the the agent panel and create new user (Person who can create a service ticket request). Go to:
+- Agent Panel -> Users -> Add New
+- For the purposes of testing create two users (whatever names you choose)
 
+<p align="center">
+<img src="https://imgur.com/Ynqb3m2.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
+6b. Enter the details of the new user
 
-
-
-
-
-
+<p align="center">
+<img src="https://imgur.com/1ERcVlZ.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
 
