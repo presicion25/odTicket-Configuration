@@ -61,6 +61,46 @@ Step 2. Configure the Departments
 <br />
 
 
+Step 3. Configure Teams
+- Admin Panel -> Agents -> Teams
+- For the purposes of testing create two teams (Level I Support, Level II Support)
+
+<p align="center">
+<img src="https://imgur.com/4wIG9A3.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+3b.
+<p align="center">
+<img src="https://imgur.com/0Sh96O5.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+3c. Add a member to the team
+<p align="center">
+<img src="https://imgur.com/AYgslAg.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
