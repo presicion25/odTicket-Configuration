@@ -144,7 +144,7 @@ Step 5. Configure Agents (Workers who will work the tickets). Go to:
 <br />
 <br />
 
-5d. Sert the permissions for the new agent 
+5d. Set the permissions for the new agent 
 
 <p align="center">
 <img src="https://imgur.com/3TnpvPY.png alt="Traffic Examination"/>
